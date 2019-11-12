@@ -97,8 +97,7 @@
   margin: 10px;
   padding: 10px;
   color: #DF691A;
-  
-  background-color:rgba(255, 255, 255, 0.75);
+  background-color: transparent;
   grid-column-start: 1;grid-column-end: 9; grid-row-start: 4; grid-row-end: 4;
   border-radius: 30%;
  }
@@ -4941,7 +4940,11 @@
     }
 
 
+ .fas {
 
+  margin: 6px;
+
+ }
  .card {
    position: relative;
    margin: 20px;
